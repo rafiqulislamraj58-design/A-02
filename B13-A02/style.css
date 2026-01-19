@@ -203,16 +203,16 @@
     width: 100%;
 }
 .center-img {
-        width: 180px !important;
-        top: 50%;
+        width: 160px !important;
+        top: 35%;
     }
 .microphone {
         width: 60px !important;
-        top: 50%;
+        top: 30%;
 }
 .new {
         left: 70% !important;
-        top: 5%;
+        top: 2%;
     }
 .baner-contant {
         position: relative;
